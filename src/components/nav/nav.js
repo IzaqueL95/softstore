@@ -13,7 +13,7 @@ function Nav() {
       <s.ListItem><s.listA href="">Decoração externa</s.listA></s.ListItem>
     </s.List>
     </s.Header>
-    <s.secondText>Eu ouvi Balck Friday??????</s.secondText>
+    <s.secondText>Eu ouvi Black Friday??????</s.secondText>
     </>
   );
 }
