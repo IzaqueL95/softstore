@@ -19,6 +19,7 @@ height: 40px;
 border-radius:2px;`
 
 export const mailButton = styled.button`
+cursor: pointer;
 margin-left: 8px;
 border: none;
 outline: 0;
