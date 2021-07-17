@@ -10,7 +10,7 @@ function Footer(){
            
         <p>By: Izaque Liborio</p>
 
-        <s.icone href="#"><i class="fa fa-github" aria-hidden="true"></i></s.icone>
+        <s.icone href="https://github.com/IzaqueL95/softstore"><i class="fa fa-github" aria-hidden="true"></i></s.icone>
         </s.footerBase>
     )
 }
