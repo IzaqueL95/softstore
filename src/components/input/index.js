@@ -29,7 +29,7 @@ function Email(){
             <s.h1Text>Receba as ofertas relampago por email !</s.h1Text>
             <form>
             <s.mailInput id="email" placeholder="seuemail@email.com"/>
-            <s.mailButton type="button" onClick={handle}>Pesquisar</s.mailButton>
+            <s.mailButton type="button" onClick={handle}>Enviar</s.mailButton>
             </form>
         </s.container>
         
